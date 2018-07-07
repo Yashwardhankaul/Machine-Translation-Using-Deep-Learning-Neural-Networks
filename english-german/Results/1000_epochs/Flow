@@ -1,0 +1,261 @@
+(tensorflow) zeus@zeus-Dell-System-XPS-L502X:~/Desktop/language_translator$ python translator.py
+Sentence in English - encoded: [108, 5, 867, 93, 38, 25, 2583]
+Sentence in German - encoded: [166, 262, 8, 474, 268, 324, 67, 15, 130]
+Decoded:
+------------------------
+They walk in here and 
+
+Die kommen hier herein und ------------------TRAINING------------------
+2018-03-05 13:09:41.039024: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX
+step: 0, loss: 9.0754070282
+step: 4, loss: 9.05039215088
+step: 9, loss: 8.90594291687
+step: 14, loss: 9.01462078094
+step: 19, loss: 8.94263839722
+Checkpoint is saved
+step: 24, loss: 8.80900001526
+step: 29, loss: 9.06565666199
+step: 34, loss: 8.86465644836
+step: 39, loss: 8.47956943512
+Checkpoint is saved
+step: 44, loss: 7.46493053436
+step: 49, loss: 7.36770343781
+step: 54, loss: 6.80758237839
+step: 59, loss: 6.65442228317
+Checkpoint is saved
+step: 64, loss: 6.88154506683
+step: 69, loss: 6.07684373856
+step: 74, loss: 6.04927921295
+step: 79, loss: 6.26104736328
+Checkpoint is saved
+step: 84, loss: 5.93866157532
+step: 89, loss: 6.7910451889
+step: 94, loss: 5.89279413223
+step: 99, loss: 6.57385110855
+Checkpoint is saved
+step: 104, loss: 5.53611564636
+step: 109, loss: 5.33467292786
+step: 114, loss: 5.24222564697
+step: 119, loss: 5.17731523514
+Checkpoint is saved
+step: 124, loss: 5.41915607452
+step: 129, loss: 6.25012588501
+step: 134, loss: 4.98666477203
+step: 139, loss: 5.36088275909
+Checkpoint is saved
+step: 144, loss: 4.94804191589
+step: 149, loss: 5.30741024017
+step: 154, loss: 4.92247772217
+step: 159, loss: 4.65178585052
+Checkpoint is saved
+step: 164, loss: 4.49943065643
+step: 169, loss: 4.74883699417
+step: 174, loss: 4.86186504364
+step: 179, loss: 4.58032417297
+Checkpoint is saved
+step: 184, loss: 4.90773391724
+step: 189, loss: 4.48344612122
+step: 194, loss: 4.65592479706
+step: 199, loss: 4.67350292206
+Checkpoint is saved
+step: 204, loss: 4.73203849792
+step: 209, loss: 4.38548135757
+step: 214, loss: 4.3384141922
+step: 219, loss: 4.21420669556
+Checkpoint is saved
+step: 224, loss: 4.0578417778
+step: 229, loss: 4.0981798172
+step: 234, loss: 4.02146053314
+step: 239, loss: 3.92232513428
+Checkpoint is saved
+step: 244, loss: 3.94664287567
+step: 249, loss: 3.76892614365
+step: 254, loss: 4.68770074844
+step: 259, loss: 3.4323489666
+Checkpoint is saved
+step: 264, loss: 3.45944976807
+step: 269, loss: 3.70162677765
+step: 274, loss: 3.67921948433
+step: 279, loss: 3.14755320549
+Checkpoint is saved
+step: 284, loss: 3.17676258087
+step: 289, loss: 3.36601161957
+step: 294, loss: 3.4530506134
+step: 299, loss: 3.58741879463
+Checkpoint is saved
+step: 304, loss: 3.31778478622
+step: 309, loss: 3.11922979355
+step: 314, loss: 3.6104016304
+step: 319, loss: 3.42784738541
+Checkpoint is saved
+step: 324, loss: 3.08197331429
+step: 329, loss: 3.03088474274
+step: 334, loss: 3.26971697807
+step: 339, loss: 3.05554628372
+Checkpoint is saved
+step: 344, loss: 3.13310599327
+step: 349, loss: 2.9911866188
+step: 354, loss: 3.18450927734
+step: 359, loss: 3.06807661057
+Checkpoint is saved
+step: 364, loss: 2.72315478325
+step: 369, loss: 2.80225276947
+step: 374, loss: 2.90365314484
+step: 379, loss: 2.67000746727
+Checkpoint is saved
+step: 384, loss: 2.68331742287
+step: 389, loss: 2.85582733154
+step: 394, loss: 2.95005559921
+step: 399, loss: 2.50778675079
+Checkpoint is saved
+step: 404, loss: 2.69145584106
+step: 409, loss: 2.43728232384
+step: 414, loss: 2.72071003914
+step: 419, loss: 2.60262489319
+Checkpoint is saved
+step: 424, loss: 2.80255174637
+step: 429, loss: 2.63029384613
+step: 434, loss: 2.64362621307
+step: 439, loss: 2.73866248131
+Checkpoint is saved
+step: 444, loss: 2.59277224541
+step: 449, loss: 2.46442246437
+step: 454, loss: 2.31516313553
+step: 459, loss: 2.72582054138
+Checkpoint is saved
+step: 464, loss: 2.39554738998
+step: 469, loss: 2.14066123962
+step: 474, loss: 2.37412405014
+step: 479, loss: 2.46143245697
+Checkpoint is saved
+step: 484, loss: 2.32805371284
+step: 489, loss: 2.02312278748
+step: 494, loss: 2.39721536636
+step: 499, loss: 2.23760652542
+Checkpoint is saved
+step: 504, loss: 2.15833306313
+step: 509, loss: 2.21343183517
+step: 514, loss: 2.03629136086
+step: 519, loss: 2.87629437447
+Checkpoint is saved
+step: 524, loss: 2.04950141907
+step: 529, loss: 1.84819304943
+step: 534, loss: 2.31440830231
+step: 539, loss: 1.88160955906
+Checkpoint is saved
+step: 544, loss: 2.18589878082
+step: 549, loss: 1.93783593178
+step: 554, loss: 2.33170437813
+step: 559, loss: 2.07849669456
+Checkpoint is saved
+step: 564, loss: 1.89931106567
+step: 569, loss: 1.86371004581
+step: 574, loss: 1.89759993553
+step: 579, loss: 1.99290406704
+Checkpoint is saved
+step: 584, loss: 1.68634986877
+step: 589, loss: 2.5256485939
+step: 594, loss: 1.80838429928
+step: 599, loss: 2.1203122139
+Checkpoint is saved
+step: 604, loss: 1.72936987877
+step: 609, loss: 2.22876524925
+step: 614, loss: 1.67031025887
+step: 619, loss: 1.6409137249
+Checkpoint is saved
+step: 624, loss: 1.99816894531
+step: 629, loss: 2.06134080887
+step: 634, loss: 2.08830833435
+step: 639, loss: 1.65914344788
+Checkpoint is saved
+step: 644, loss: 2.12228536606
+step: 649, loss: 1.25722682476
+step: 654, loss: 1.67941701412
+step: 659, loss: 1.99662959576
+Checkpoint is saved
+step: 664, loss: 1.68851685524
+step: 669, loss: 1.66700959206
+step: 674, loss: 1.48211050034
+step: 679, loss: 1.76577579975
+Checkpoint is saved
+step: 684, loss: 1.53706276417
+step: 689, loss: 1.66501653194
+step: 694, loss: 1.61711037159
+step: 699, loss: 1.47918009758
+Checkpoint is saved
+step: 704, loss: 1.89336740971
+step: 709, loss: 1.55770969391
+step: 714, loss: 1.71597552299
+step: 719, loss: 1.48360645771
+Checkpoint is saved
+step: 724, loss: 1.62382733822
+step: 729, loss: 1.5109320879
+step: 734, loss: 1.49567592144
+step: 739, loss: 1.38092041016
+Checkpoint is saved
+step: 744, loss: 1.6457529068
+step: 749, loss: 1.65627992153
+step: 754, loss: 1.65751028061
+step: 759, loss: 1.51532173157
+Checkpoint is saved
+step: 764, loss: 1.6562204361
+step: 769, loss: 1.7464492321
+step: 774, loss: 1.57238686085
+step: 779, loss: 1.27463150024
+Checkpoint is saved
+step: 784, loss: 1.44361448288
+step: 789, loss: 1.45819973946
+step: 794, loss: 1.43829762936
+step: 799, loss: 1.5766800642
+Checkpoint is saved
+step: 804, loss: 1.47213280201
+step: 809, loss: 1.41746211052
+step: 814, loss: 1.65557706356
+step: 819, loss: 1.24866533279
+Checkpoint is saved
+step: 824, loss: 1.21219241619
+step: 829, loss: 1.36478030682
+step: 834, loss: 1.34871125221
+step: 839, loss: 1.54985809326
+Checkpoint is saved
+step: 844, loss: 1.53589129448
+step: 849, loss: 1.41758346558
+step: 854, loss: 1.40847277641
+step: 859, loss: 1.52324986458
+Checkpoint is saved
+step: 864, loss: 1.23247742653
+step: 869, loss: 1.17025625706
+step: 874, loss: 1.32045853138
+step: 879, loss: 1.29827356339
+Checkpoint is saved
+step: 884, loss: 1.3169772625
+step: 889, loss: 1.43414509296
+step: 894, loss: 1.22215032578
+step: 899, loss: 1.2679810524
+Checkpoint is saved
+step: 904, loss: 0.823865771294
+step: 909, loss: 1.39763736725
+step: 914, loss: 1.4192647934
+step: 919, loss: 1.54282474518
+Checkpoint is saved
+step: 924, loss: 1.02880215645
+step: 929, loss: 1.56594920158
+step: 934, loss: 1.28073453903
+step: 939, loss: 1.32013177872
+Checkpoint is saved
+step: 944, loss: 1.07829332352
+step: 949, loss: 1.07878398895
+step: 954, loss: 1.0503423214
+step: 959, loss: 1.42362165451
+Checkpoint is saved
+step: 964, loss: 1.07294428349
+step: 969, loss: 1.03876292706
+step: 974, loss: 1.30646622181
+step: 979, loss: 1.03002476692
+Checkpoint is saved
+step: 984, loss: 1.01541030407
+step: 989, loss: 1.0379049778
+step: 994, loss: 0.916939020157
+step: 999, loss: 1.36361086369
+Checkpoint is saved
+Training time for 1000 steps: 2447.94844294s
